@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+}
+
+.filme{
+    background-color: transparent;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+iframe{
+    width: 1000px;
+    height: 600px;
+
+}
+button{
+    margin-top: 50px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 26%;
+    background-color: rgb(147, 34, 34);
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(255, 0, 0);
+}
